@@ -1,0 +1,9 @@
+*****  This file is a dummy file *****
+which has been created
+to run a test for egrep
+grep series of commands are used by the following types of people
+   programmers
+   end users
+Believe it or not, grep series of commands are used by pros and novices alike
+*****  THIS FILE IS A DUMMY FILE *****
+
