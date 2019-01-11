@@ -1,0 +1,15 @@
+1 tera di dati
+40000 files
+per giocare.
+
+Marco: ldap di Catania
+	1T dati
+
+GUI: chiedere ai canadesi
+
+Robert:
+token di autorizzazione, ottenere cert x509, come trovare la quota
+
+Me: chiedi come gestiscono la quota.
+
+
