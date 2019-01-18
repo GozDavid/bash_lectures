@@ -67,4 +67,4 @@ echo
 # Use tee to redirect output both to stdout and to a file
 echo "Use tee to redirect output both to stdout and to a file"
 echo "Following the result:"
-find . -name file3.txt  2>&1 | tee -a log
+find . -name file3.txt  | tee -a log
