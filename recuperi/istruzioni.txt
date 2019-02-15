@@ -1,0 +1,30 @@
+Chi perde tutti i seminari può recuperare in  due passi:
+1. studiando le slide dei seminari (disponibili in:
+https://github.com/bertocco/bash_lectures) ed eseguendo gli 
+esercizi proposti nelle slide
+PIU`
+2. partecipando ad una esercitazione di verifica di 
+adeguata conoscenza degli argomenti trattati che 
+si terrà indicativamente a metà marzo.
+
+Chi ha perso uno o più seminari (fino a 4), ma non la totalità, 
+può recuperare in due passi:
+1. studiando le slide dei seminari (disponibili in: 
+https://github.com/bertocco/bash_lectures) ed eseguendo gli
+esercizi proposti nelle slide
+PIU`
+2. svolgendo per ciascuno dei seminari gli esercizi proposti 
+nei file allegati
+	bash_1_recupero.txt
+	bash_2_recupero.txt
+	python_1_recupero.txt
+	python_2_recupero.txt
+	python_3_recupero.txt
+	python_4_recupero.txt
+e mandando gli script contenenti le soluzioni,
+in formato testo ed eseguibili, alla docente all'e-mail:
+sara.bertocco@gmail.com
+
+La verifica della correttezza delle soluzioni consisterà in 
+una revisione sommaria degli script più l'esecuzione
+degli script stessi.

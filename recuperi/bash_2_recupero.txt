@@ -1,0 +1,10 @@
+Write a script that upon invocation
+Says “Hello!”
+shows the time and date
+The script then saves this information to a logfile
+
+ Make the script executable
+
+ Execute the script
+
+ Make the script available as a command

@@ -1,0 +1,35 @@
+Esercizi di recupero del seminario "Bash Introduction"
+
+Esercizio 1
+-----------
+Preparare uno script, commentando opportunamente 
+l'output in modo da renderlo comprensibile, che:
+
+crea la directory col nome "my_first_dir"
+crea la sotto-directory "my_firs_dir/subdirectory"
+crea i file my_first_dir/testfile_1.txt
+            my_first_dir/testfile_2.txt
+            my_first_dir/subdirectory/testfile_1.txt
+            my_first_dir/subdirectory/testfile_2.txt
+            my_first_dir/subdirectory/testfile_3.txt
+lista i file contenuti in "subdirectory"
+copia my_first_dir/testfile_2.txt in my_first_dir/subdirectory/testfile_4.txt
+rinomina my_first_dir/subdirectory/testfile_1.txt in my_first_dir/subdirectory/testfile_1_rinominato.txt
+lista i file contenuti in "subdirectory"
+rimuove la cartella "subdirectory"
+
+Esercizio 2
+-----------
+Eseguire lo script sviluppato nell'Esercizio 1,
+redirigere l'output nel file esercizio1_output.txt
+
+Preparare uno script, commentando opportunamente
+l'output in modo da renderlo comprensibile, che:
+conta le righe del file esercizio1_output.txt
+e scrive sull'output la stringa:
+"oggi <inserire la data> il mio file conta <inserire il numero di righe> righe"
+
+Fornire alla docente, oltre allo script, anche 
+il file esercizio1_output.txt
+
+
