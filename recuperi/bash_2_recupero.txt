@@ -1,3 +1,5 @@
+Exercise 1:
+
 Write a script that upon invocation
 Says “Hello!”
 shows the time and date
@@ -8,3 +10,13 @@ The script then saves this information to a logfile
  Execute the script
 
  Make the script available as a command
+
+---------------------
+Exercise 2:
+Write a script with an example for each control flow instruction:
+if...then....else
+for
+while
+until
+case
+ 

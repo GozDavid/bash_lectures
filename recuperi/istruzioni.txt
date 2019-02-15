@@ -7,7 +7,7 @@ PIU`
 adeguata conoscenza degli argomenti trattati che 
 si terrà indicativamente a metà marzo.
 
-Chi ha perso uno o più seminari (fino a 4), ma non la totalità, 
+Chi ha perso uno o più seminari, ma non la totalità, 
 può recuperare in due passi:
 1. studiando le slide dei seminari (disponibili in: 
 https://github.com/bertocco/bash_lectures) ed eseguendo gli
@@ -23,7 +23,7 @@ nei file allegati
 	python_4_recupero.txt
 e mandando gli script contenenti le soluzioni,
 in formato testo ed eseguibili, alla docente all'e-mail:
-sara.bertocco@gmail.com
+sara.bertocco@inaf.it
 
 La verifica della correttezza delle soluzioni consisterà in 
 una revisione sommaria degli script più l'esecuzione
