@@ -1,0 +1,13 @@
+Exercise
+
+Go to page
+https://docs.python.org/2/tutorial/introduction.html
+to the paragraph
+“Using Python as a Calculator”
+practice with the described operators.
+Just to practice with the language,
+write a module containing a python function executing the operation for each
+operator,
+write your own script importing the module, reading input from command line,
+executing the operations using the functions previously coded,
+print the operators and the result for each function

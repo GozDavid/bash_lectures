@@ -1,0 +1,18 @@
+Exercise 1:
+Prepare a script python summarizing exercises
+control_flow_step0
+control_flow_step1
+control_flow_step2
+control_flow_step3
+control_flow_step4
+____________________
+
+Exercise 2:
+
+Write a python script to multiply two matrices.
+
+Try also the special case of product between matrix and vector
+[mXn X nX1]
+Verify with an example that
+AXB != BXA
+[must be mXn * nXm]
