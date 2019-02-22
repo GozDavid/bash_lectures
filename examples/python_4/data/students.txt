@@ -1,0 +1,6 @@
+Studenti  test1	  test2    test3  test4
+
+Lisa      98.3    94.2     95.3	  91.3
+Carlo     47.2    49.1     54.2   34.7
+Mario     84.2    85.3     94.1   76.4
+
