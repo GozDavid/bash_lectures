@@ -1,0 +1,6 @@
+Exercise 1:
+Prepare a script to read the data in the file python_4_recuperi.dat1.txt 
+and plot tmin and tmax in function of years on a same plot, using different colors. Put a legend explaining the plot.
+
+Exercise 2:
+Execute the exercise described in the file python_4_ex2.pdf
