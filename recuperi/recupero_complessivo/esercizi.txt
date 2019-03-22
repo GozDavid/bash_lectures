@@ -1,0 +1,118 @@
+Esercizio 1 
+
+Preparare uno script bash che 
+1_ conta il numero di righe del file attivita_inaf.txt
+2_ conta il numero di occorrenze delle parola "Universo" nello stesso file
+3_ sostituisce in tutto questo file la parola 'CMB' con 'Cosmic Microwave 
+Background'
+4_ concatenare i file sciame_meteorico.txt, leonidi.txt, perseidi.txt
+in un unico filei, con nome gli_sciami_meteorici.txt, in cui compaiano i
+tre file  nell'ordine formando un articolo sugli sciami meteorici
+5_ creare un albero di directory come indicato sotto:
+dir_my_articles/dir_single_sources
+               /articles
+6_ spostare i file sciame_meteorico.txt, leonidi.txt, perseidi.txt in
+dir_my_articles/dir_single_sources
+7_ spostare il file gli_sciami_meteorici.txt in dir_my_articles/articles
+8_ creare un file di backup (tar) che contenga /dir_my_articles con tutto
+il suo contenuto e che nel nome contenga la data corrente
+9_ listare ricorsivamente il contenuto della directory di lavoro (cercare 
+l'opzione del comando per farlo) e redirigere l'output in un file bash1.out.txt
+Rendere lo script eseguibile, eseguirlo, verificare il contenuto del file 
+bash1.out.txt
+
+----------------------------------
+Esercizio 2 
+
+Preparare uno script bash che riceve come parametro di input il path 
+della directory dir_my_articles e per tutti i file contenuti nella directory
+verifica se sono file o directory e stampa sull'output la stringa:
+"il file <sostituire il nome del file> e` <un file>/<una directory>"
+Rendere lo script eseguibile, eseguirlo e redirezionare sia lo standard output 
+che lo standard error in un file es2_bash.log.txt
+
+----------------------------------
+Esercizio 3 
+
+Preparare uno script python che stampi la lunghezza delle stringhe fornite 
+dall'utente, finchè l'utente non inserisce la stringa
+'exit'
+
+----------------------------------
+Esercizio 4 
+Scrivere un programma che, dati i due elenchi di
+numeri sottostanti, crei la matrice dei loro prodotti:
+v1: 1,2,3,4,5
+v2: 6,7,8,9,10
+mat:
+ 1*6 1*7 1*8 ...
+ 2*6 2*7 2*8 ...
+ ...
+Completare il programma con una stampa della
+matrice riga per riga:
+[6, 7, 8 ...]
+[12, 14, 16 ...]
+...
+Provare il funzionamento dello script e poi arricchirlo
+definendo 
+- una funzione stampa_matrice(mat), che migliori 
+la stampa (per stampare i numeri allineati usare la 
+formattazione 
+print '%3i' % num
+)
+- una funzione square(val,n) che ritorni una matrice quadrata di
+square(val,n), che ritorni una matrice quadrata di
+dimensione n con il valore val in ogni cella.
+
+Utilizzare infine la funzione stampa_matrice(mat) per
+stampare una matrice 8x8 con il valore 12 in ogni cella
+
+Suggerimento: Per stampare senza andare a capo:
+in python2 aggiungere una virgola in fondo alla riga con 
+l'istruzione print;
+in python3 usare l'istruzione perint definendo end cosi`:
+print("Stringa che stampo", end = " ")
+----------------------------------
+Esercizio 5
+
+Scrivere un programma che legga un intero n da tastiera
+e stampi a schermo:
+1
+1 2
+1 2 3
+1 2 3 4
+...
+E così via fino a n.
+
+----------------------------------
+Esercizio 6
+
+Creare due tuple che rappresentino i due elenchi di nomi 
+e cognomi descritti sotto:
+nomi: Tarquinio, Servio, Tullo, Anco
+cognomi: Prisco, Tullio, Ostilio, Marzio
+Scrivere il codice per ottenere una lista in cui ogni 
+elemento è un dizionario 
+{'nome': nome, 'cognome': cognome} 
+che accoppia nomi e cognomi in base all'ordine.
+Stampare a video il risultato
+
+----------------------------------
+Esercizio 7
+
+Preparare uno script python che legge i dati contenuti nel file 
+python_4_recuperi.dat1.txt
+Graficare Tmax e Tmin in funzione degli anni nello stesso grafico, 
+usando differenti colori.
+Aggiungere una legenda.
+
+----------------------------------
+Esercizio 8 
+
+Eseguire l'esercizio descritto nel file python_4_ex2.pdf
+(attenzione che il formato del file e` pdf, quindo usare lo strumento
+corretto per aprirlo)
+
+
+
+
