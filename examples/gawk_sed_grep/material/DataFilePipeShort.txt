@@ -1,0 +1,5 @@
+Name|SSN|PhoneNumber|Email|Company|Profile
+Jasmine Smith|064-60-0316|001-833-234-9537|rodriguezcynthia@oconnor-wilson.com|Acosta, Reeves and Thomas|Copy
+Christopher Weber|437-36-2091|4264942627|leah94@gordon.biz|Thomas, Sparks and Jimenez|Water engineer
+Kristin Wilson|880-07-5157|188-011-8656x498|matthewphillips@yahoo.com|White-Howard|Information systems manager
+christopher weber|437-36-2091|4264942627|leah94@gordon.biz|thomas, sparks and jimenez|water engineer
